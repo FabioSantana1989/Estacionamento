@@ -1,2 +1,2 @@
 <?php
-print "Pagina Inicial do Projeto!";
+print "Pagina Inícial do Projeto!";
